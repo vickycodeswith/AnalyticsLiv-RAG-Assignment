@@ -1,7 +1,7 @@
 # NovaTech Knowledge Assistant
 
 A student-sized Retrieval-Augmented Generation (RAG) demo for the AnalyticsLiv Data Science Intern assignment. It answers questions using a fictional business database and a small set of business documents, and displays evidence used for each answer.
-
+Live app: https://analyticsliv-rag-assignment.streamlit.app/
 ## Features
 
 - Ingests PDF, DOCX, and TXT files.
