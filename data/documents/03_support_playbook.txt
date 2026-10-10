@@ -1,0 +1,29 @@
+Support Operations Playbook
+===========================
+NovaTech Solutions | Fictional sample document created for a technical assignment.
+
+Ticket priority definitions
+---------------------------
+Critical tickets indicate a suspected security incident or a production service unavailable for many users. High tickets block a key business workflow for a team. Medium tickets affect an individual or have a workaround. Low tickets are routine requests or minor issues with no material business interruption.
+
+Response targets
+----------------
+The initial response target is 30 minutes for Critical, 2 business hours for High, 1 business day for Medium, and 3 business days for Low. These are response targets, not guaranteed resolution times. The support team records the first human response separately from automated acknowledgements.
+
+Escalation
+----------
+Escalate a Critical ticket immediately to the on-call lead and Security Operations when security may be involved. Escalate a High ticket to the team lead if no owner has accepted it within one business hour. Include the impact, affected users, troubleshooting steps, and relevant ticket identifier.
+
+Ticket closure
+--------------
+A ticket can be marked Resolved after the fix or workaround is communicated to the requester. Mark it Closed after requester confirmation or after two business days without a response. Add a concise resolution note. Do not include passwords, API keys, or unnecessary personal information in ticket notes.
+
+Support analytics
+-----------------
+Weekly reporting should include ticket volume by category, priority mix, time to first human response, resolution time for resolved tickets, reopened tickets, and the oldest open items. Compare similar periods and state the sample size before drawing conclusions.
+
+Working examples
+-----------------
+Example: When a report refresh is late, the analyst checks the last successful refresh timestamp, confirms the source owner, and communicates the impact before changing any numbers.
+Example: When a request lacks a business reason, the owner asks for clarification instead of granting broad access or making an unsupported promise.
+These examples are illustrative and do not override the policy statements above.

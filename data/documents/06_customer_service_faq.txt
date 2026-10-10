@@ -1,0 +1,29 @@
+Customer Service FAQ
+====================
+NovaTech Solutions | Fictional sample document created for a technical assignment.
+
+Business hours
+--------------
+The standard customer support coverage window is 09:00 to 18:00 IST on business days. Critical production incidents are routed to the on-call process outside those hours. Public holidays may affect non-critical response times.
+
+Requesting a report
+-------------------
+A report request should specify the business question, desired fields, date range, delivery format, and deadline. The analytics team confirms feasibility and identifies the data owner before promising a delivery date. Requests involving personal data need an approved purpose.
+
+Dashboard discrepancy
+---------------------
+When a dashboard does not match another report, capture both report names, filter settings, date ranges, timezone, and refresh timestamps. Do not assume one report is correct before checking definitions and refresh status. Assign the investigation to the owner of the metric.
+
+Escalating a customer issue
+---------------------------
+Escalate a customer issue when a published commitment is at risk, several customers are affected, or the impact is not understood. Provide a short factual summary, the customer impact, actions tried, and the next update time. Avoid speculation in customer-facing messages.
+
+Feedback and service improvement
+--------------------------------
+Support leads review recurring ticket themes monthly. Improvements should have an owner, a success measure, and a review date. A lower ticket count alone does not prove better service; changes in customer volume and reporting practices should also be considered.
+
+Working examples
+-----------------
+Example: When a report refresh is late, the analyst checks the last successful refresh timestamp, confirms the source owner, and communicates the impact before changing any numbers.
+Example: When a request lacks a business reason, the owner asks for clarification instead of granting broad access or making an unsupported promise.
+These examples are illustrative and do not override the policy statements above.
