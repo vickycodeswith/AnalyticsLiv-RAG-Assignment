@@ -40,7 +40,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Open `.env` and set `GEMINI_API_KEY` to your own key. Never commit `.env` or paste the key into source code.
+Open `.env` and set `GEMINI_API_KEY` to your own key.
 
 ## Run locally
 
