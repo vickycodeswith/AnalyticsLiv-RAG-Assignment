@@ -1,4 +1,3 @@
-"""A small, source-grounded RAG demo for the AnalyticsLiv assignment."""
 from __future__ import annotations
 
 import os
@@ -558,3 +557,4 @@ if st.button("Ask NovaTech", type="primary"):
 
 st.divider()
 st.caption("Demo data is fictional. Verify important answers against the displayed sources.")
+st.caption(" Build By Nitesh Yadav ")
